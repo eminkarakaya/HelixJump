@@ -1,0 +1,12 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"",
+	"GoogleSetupRun":false,
+	"DebugModeEnabled":false,
+	"Version":"2.7.5",
+	"SettingsLocation":"0"
+}
